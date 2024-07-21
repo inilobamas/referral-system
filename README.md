@@ -93,6 +93,8 @@ The Referral System is a web application that allows users to register, refer ot
    npm run test
 ```
 
+![result](asset/img/unit-test.png)
+
 ## Contributing
 1. Fork the repository
 2. Create a new branch (git checkout -b feature-branch)
