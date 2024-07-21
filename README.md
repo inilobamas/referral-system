@@ -8,7 +8,6 @@ The Referral System is a web application that allows users to register, refer ot
 
 - User Registration and Login
 - Two-Level Referral Mechanism
-- Track Referral Earnings
 - Role-Based Access Control (RBAC)
 - RESTful API Documentation with Swagger
 
